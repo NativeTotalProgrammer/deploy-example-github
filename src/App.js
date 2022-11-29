@@ -12,6 +12,12 @@ function App() {
       <CounterComponent 
         counterText='Counter 3'
       />
+      <CounterComponent 
+        counterText='Counter 4'
+      />
+      <CounterComponent 
+        counterText='Counter 5'
+      />
     </div>
   );
 }
