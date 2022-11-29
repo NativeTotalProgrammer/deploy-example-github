@@ -18,6 +18,21 @@ function App() {
       <CounterComponent 
         counterText='Counter 5'
       />
+      <CounterComponent 
+        counterText='Counter 6'
+      />
+      <CounterComponent 
+        counterText='Counter 7'
+      />
+      <CounterComponent 
+        counterText='Counter 8'
+      />
+      <CounterComponent 
+        counterText='Counter 9'
+      />
+      <CounterComponent 
+        counterText='Counter 10'
+      />
     </div>
   );
 }
