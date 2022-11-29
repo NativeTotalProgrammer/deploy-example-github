@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { CounterComponent } from './components/Counter/CounterFile.jsx';
 
 function App() {
